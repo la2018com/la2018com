@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LX
-- 🌱 I’m currently wokring in IT
+- 🌱 I’m currently working in IT
 
 <!---
 la2018com/la2018com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
