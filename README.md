@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LX.
+- 👋 Hi, I’m LCL.
 - 🌱 I’m currently working in IT.
 
 <!---
